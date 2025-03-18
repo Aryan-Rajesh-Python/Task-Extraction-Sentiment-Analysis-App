@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+nltk
+spacy
+scikit-learn
+spacy-langdetect
+textblob
+scipy
+joblib
+tqdm
+re
+json
