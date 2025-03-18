@@ -33,7 +33,7 @@ python -m spacy download en_core_web_sm
 
 ### 4️⃣ Run the Streamlit App
 ```bash
-streamlit run task_sentiment_streamlit.py
+streamlit run app.py
 ```
 
 ---
