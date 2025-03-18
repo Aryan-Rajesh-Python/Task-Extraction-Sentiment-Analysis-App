@@ -17,8 +17,8 @@ This is a **Streamlit-based NLP & Machine Learning web app** that performs:
 ## 🛠 Installation & Setup
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/task-sentiment-streamlit.git
-cd task-sentiment-streamlit
+git clone https://github.com/Aryan-Rajesh-Python/Task-Extraction-Sentiment-Analysis-App
+.git
 ```
 
 ### 2️⃣ Install Dependencies
